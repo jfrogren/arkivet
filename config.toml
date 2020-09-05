@@ -49,8 +49,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "PDF:er"
   url = "/categories/"
 [[menu.main]]
-  name = "Portfolio"
+  name = "Slajds"
   weight = 50
+  identifier = "Slajds"
+  url = "https://slajds.arki.vet"
+[[menu.main]]
+  name = "Portfolio"
+  weight = 60
   identifier = "Portfolio"
   url = "https://portfolio.arki.vet"
 
