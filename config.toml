@@ -29,20 +29,30 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "Startsida"
+  name = "Blogg"
   weight = 10
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Arkiv"
+  name = "Texter"
   weight = 20
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
-  name = "Nyckelord"
+  name = "Bilder"
   weight = 30
-  identifier = "categories"
+  identifier = "Bilder"
   url = "/categories/"
+[[menu.main]]
+  name = "PDF:er"
+  weight = 40
+  identifier = "PDF:er"
+  url = "/categories/"
+[[menu.main]]
+  name = "Portfolio"
+  weight = 50
+  identifier = "Portfolio"
+  url = "https://portfolio.arki.vet"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
