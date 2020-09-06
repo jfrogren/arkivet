@@ -32,7 +32,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "Blogg"
   weight = 10
   identifier = "home"
-  url = "/"
+  url = "https://www.frogren.se"
 [[menu.main]]
   name = "Texter"
   weight = 20
