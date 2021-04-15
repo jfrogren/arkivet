@@ -1,7 +1,7 @@
 baseURL = "https://arki.vet/"
-languageCode = "sv"
-defaultContentLanguage = "sv"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Arkivet"
+languageCode = "en"
+defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+title = "Portfolio"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -46,7 +46,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 30
   identifier = "categories"
   url = "/categories/"
-
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
@@ -105,7 +104,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = []
+  customCSS = ["css/tufte.css"]
   customJS = []
 
   uglyURLs = false          # please keep same with uglyurls setting
