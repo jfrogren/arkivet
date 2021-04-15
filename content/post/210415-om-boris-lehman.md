@@ -10,7 +10,7 @@ categories: ["Film"]
 * [La Cinémathèque de Boris Lehman : l’art de s’égarer‪](https://arki.vet/pdfs/albera2017.pdf)
 * [Conserver ou détruire ‪- Supplique aux directeurs de cinémathèques](https://arki.vet/pdfs/lehman2017.pdf)
 
-Blev sugen på att läsa dessa artiklar men de kostar fem euro styck att ladda er så jag avvaktar tills vidare. Följande texter rekommenderades på programmets hemsida:
+Följande texter rekommenderades också på programmets hemsida:
 
 * [Pierre Laborie : le cinéma ou le souffle de l’histoire](https://archive.fo/VVwuo)
 * [Le Goût de l'archive - Arlette Farge](https://archive.fo/Q9qiU)
