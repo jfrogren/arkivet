@@ -6,7 +6,7 @@ tags:
   other: "Taggar"
 
 categories:
-  other: "Nyckelord"
+  other: "Kategorier"
 
 # ===== footer =====
 powered:
@@ -26,16 +26,16 @@ pagePV:
 
 # ===== post =====
 prevPage:
-  other: "Föregående"
+  other: "Nyare"
 
 nextPage:
-  other: "Nästa"
+  other: "Äldre"
 
 prevPost:
-  other: "Föregående"
+  other: "Nästa"
 
 nextPost:
-  other: "Nästa"
+  other: "Tidigare"
 
 toc:
   other: "Innehåll"
@@ -95,8 +95,8 @@ zeroTagCounter:
   other: "Inga taggar"
 
 categoryCounter:
-  one: "{{ .Count }} nyckelord totalt"
-  other: "{{ .Count }} nyckelord totalt"
+  one: "{{ .Count }} kategorier totalt"
+  other: "{{ .Count }} kategorier totalt"
 
 zeroCategoryCounter:
-  other: "Inga nyckelord"
+  other: "Inga kategorier"
