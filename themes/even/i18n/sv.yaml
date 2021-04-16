@@ -26,16 +26,16 @@ pagePV:
 
 # ===== post =====
 prevPage:
-  other: "Nyare"
+  other: "Senare"
 
 nextPage:
-  other: "Äldre"
+  other: "Tidigare"
 
 prevPost:
   other: "Nästa"
 
 nextPost:
-  other: "Tidigare"
+  other: "Föregående"
 
 toc:
   other: "Innehåll"
@@ -95,7 +95,7 @@ zeroTagCounter:
   other: "Inga taggar"
 
 categoryCounter:
-  one: "{{ .Count }} kategorier totalt"
+  one: "{{ .Count }} kategori totalt"
   other: "{{ .Count }} kategorier totalt"
 
 zeroCategoryCounter:
