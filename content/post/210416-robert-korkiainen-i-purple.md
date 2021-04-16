@@ -5,4 +5,6 @@ draft: false
 categories: ["Konst"]
 ---
 
-Fick veta av Robert i dag att han kände Jessika Thörnqvist och att han till och med hade blivit fotograferad av dem för [Les Chroniques Purple](https://archive.fo/wScWx). Ibland är världen bra liten ändå. Häftigt hur saker och ting knyts ihop på märkliga sätt. Synd bara att jag inte kan berätta det för pappa. Men det är som det är med det.
+Fick veta av Robert i dag att han kände Kim Ramberghaug och Jessika Thörnqvist och att han till och med hade blivit fotograferad av dem för [Les Chroniques Purple](https://archive.fo/wScWx). Ibland är världen bra liten ändå. Häftigt hur saker och ting knyts ihop på märkliga sätt. Synd bara att jag inte kan berätta det för pappa. Men det är som det är. Döden är obarmhärtig och ofattbar, precis som livet. Som Simone de Beauvoir skriver i *Avled stilla* [-@beauvoir2000, s. 119]:
+
+> Det finns ingen naturlig död: ingenting som händer en människa är någonsin naturligt, eftersom hennes  närvaro sätter hela världen ifråga. Alla människor är dödliga, men för varje människa är döden en olyckshändelse och - även om den är väntad och motsedd med resignation - ett otillbörligt våld.
