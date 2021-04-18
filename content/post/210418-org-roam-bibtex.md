@@ -5,7 +5,7 @@ draft: false
 categories: ["Emacs", "Zettelkasten"]
 ---
 
-Nu när man genom Doom Emacs inte längre behöver välja sidan mellan [Vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) känns det som om kampen snarare står mellan Rmarkdown och Org-mode. Har hittills lutat åt Rmarkdown i den kampen men i fredags hittade jag detta YouTube-klipp som fick mig att inse att Org-mode har vissa styrkor som Rmarkdown inte riktigt rår på:
+Nu när man genom [Doom Emacs](https://archive.fo/6YEPi) inte längre behöver välja sidan mellan [Vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) känns det som om kampen snarare står mellan Rmarkdown och Org-mode. Har hittills lutat åt Rmarkdown i den kampen men i fredags hittade jag detta YouTube-klipp som fick mig att inse att Org-mode har vissa styrkor som Rmarkdown inte riktigt rår på:
 
 {{< youtube Wy9WvF5gWYg>}}
 
