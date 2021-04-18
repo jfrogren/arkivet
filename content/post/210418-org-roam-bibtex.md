@@ -5,7 +5,7 @@ draft: false
 categories: ["Emacs", "Zettelkasten"]
 ---
 
-Nu när man genom [Doom Emacs](https://archive.fo/6YEPi) inte längre behöver välja sidan mellan [Vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) känns det som om kampen snarare står mellan Rmarkdown och Org-mode. Har hittills lutat åt Rmarkdown i den kampen men i fredags hittade jag detta YouTube-klipp som fick mig att inse att Org-mode har vissa styrkor som Rmarkdown inte riktigt rår på:
+Nu när man genom [Doom Emacs](https://archive.fo/6YEPi) inte längre behöver välja sidan mellan [Vim](https://www.vim.org/) och [Emacs](https://www.gnu.org/software/emacs/) känns det som om kampen snarare står mellan (R) Markdown och Org-mode. Har hittills lutat åt (R) Markdown i den kampen men i fredags hittade jag detta YouTube-klipp som fick mig att inse att Org-mode har vissa styrkor som Rmarkdown inte riktigt rår på:
 
 {{< youtube Wy9WvF5gWYg>}}
 
@@ -21,4 +21,4 @@ På detta sätt erhåller filerna en org-syntax som motsvarar markdown-syntaxen.
 
 Sympatiskt nog finns det ett [diskussionsforum för Org Roam](https://archive.fo/DyfgT), där det finns många kunniga personer som kan bistå med hjälp när det gäller att sätta upp sitt eget system i Emacs. Från signaturen *cobblepot* hittade jag [detta inlägg](https://archive.fo/RHldi) som mycket väl beskriver den frustration man kan känna som ny Emacs-användare. Motsatt till vad som formuleras i tråden tycker jag ändå att Doom Emacs har varit en nödvändig tröskel för mig, men jag inser också att det är en genväg som stundtals straffar sig eftersom man har skaffat sig ett system som man bara begriper till en liten del. Att helt börja om från början med Vanilla Emacs ser jag dock inte som ett alternativ i dagsläget. 
 
-Som jag tänker mig mitt eget arbetsflöde så kommer jag att den närmaste framtiden att hålla mig till Rmarkdown åtminstone för det egna skrivandet, men fortsättning följer i jakten på det ultimata akademiska arbetsflödet. 
+Som jag tänker mig mitt eget arbetsflöde så kommer jag att den närmaste framtiden att hålla mig till (R) Markdown åtminstone för det egna skrivandet, men fortsättning följer i jakten på det ultimata akademiska arbetsflödet. 
